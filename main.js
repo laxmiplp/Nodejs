@@ -1,0 +1,22 @@
+console.log('Welcome to Main File')
+// require('./module1.js')
+// require('./module2.js')
+// const obj = require('./module1.js')
+// obj.sample1()
+// obj.sample2()
+const { sample1, sample2 } = require('./module1.js')
+sample1()
+sample2()
+// const obj2 = require('./module2.js')
+// console.log(obj2.fun1())
+// console.log(obj2.x)
+const { fun1, x } = require('./module2.js')
+console.log(fun1())
+console.log(x)
+const { calc } = require('./module3.js')
+let a = 5
+let b = 4
+console.log(calc(5, 4))
+const jsonObj = require('./data.json')
+console.log(jsonObj)
+
