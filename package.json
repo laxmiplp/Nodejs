@@ -2,7 +2,7 @@
   "name": "nodejs-projects",
   "version": "1.0.0",
   "description": "nodejs-projects-classes",
-  "main": "index.js",
+  "main": "main1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon main1.js"
