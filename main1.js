@@ -1,8 +1,12 @@
 const http = require('http')
+const PORT = process.env.PORT || 3101; // Use Render's assigned port or default to 3101
+
 const server = http.createServer((req, res) => {
-    res.write('Node js server started')
-    res.end('response provided')
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+
+    res.write('Node.js server started\n');
+    res.end('Response provided');
 })
 server.listen('3101', () => {
-    console.log('server is running')
+    console.log(`Server is running on port ${PORT}`);
 })
