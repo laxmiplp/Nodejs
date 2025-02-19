@@ -7,6 +7,6 @@ const server = http.createServer((req, res) => {
     res.write('Node.js server started\n');
     res.end('Response provided');
 })
-server.listen('3101', () => {
+server.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 })
