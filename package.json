@@ -2,10 +2,10 @@
   "name": "nodejs-projects",
   "version": "1.0.0",
   "description": "nodejs-projects-classes",
-  "main": "main1.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon main1.js"
+    "start": "node main1.js"
   },
   "author": "Laxmi",
   "license": "ISC",
