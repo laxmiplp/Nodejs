@@ -1,0 +1,20 @@
+[
+    {
+        "id": "101",
+        "name": "Laxmi",
+        "dep": "IT",
+        "exp": "3 yrs"
+    },
+    {
+        "id": "102",
+        "name": "Prasanna",
+        "dep": "Non-IT",
+        "exp": "1.5 yrs"
+    },
+    {
+        "id": "103",
+        "name": "Pillalamarri",
+        "dep": "HR",
+        "exp": "5 yrs"
+    }
+]
