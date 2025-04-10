@@ -2,15 +2,16 @@
   "name": "nodejs-projects",
   "version": "1.0.0",
   "description": "nodejs-projects-classes",
-  "main": "middlewareFormTask.js",
+  "main": "bcrypt1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon middlewareFormTask.js"
+    "start": "nodemon bcrypt1.js"
   },
   "author": "Laxmi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
     "nodemon": "^3.1.9"
   }
 }
