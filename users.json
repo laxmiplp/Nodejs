@@ -1,0 +1,38 @@
+[
+    {
+        "id": "101",
+        "name": "Sanvi",
+        "dep": "IT",
+        "exp": "3 yrs"
+    },
+    {
+        "id": "102",
+        "name": "Shriman",
+        "dep": "Non-IT",
+        "exp": "1.5 yrs"
+    },
+    {
+        "id": "103",
+        "name": "Samatha",
+        "dep": "HR",
+        "exp": "5 yrs"
+    },
+    {
+        "id": "104",
+        "name": "Shrinika",
+        "dep": "Aerospace",
+        "exp": "7 yrs"
+    },
+    {
+        "id": "108",
+        "name": "Shrinika",
+        "dep": "Aerospace",
+        "exp": "7 yrs"
+    },
+    {
+        "id": "108",
+        "name": "Samyktha",
+        "dep": "Aerospace",
+        "exp": "7 yrs"
+    }
+]
